@@ -1,0 +1,6 @@
+#include<stdio.h>
+main()
+{
+	int yy=2001, mm=1, dd=1;
+	printf("„‚ÍA%d”N%dŒ%d“ú‚É¶‚Ü‚ê‚Ü‚µ‚½", yy, mm, dd);
+}
